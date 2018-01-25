@@ -1,0 +1,7 @@
+node_modules
+src
+coverage
+.nyc_output
+.gitignore
+.npmignore
+tsconfig.json
